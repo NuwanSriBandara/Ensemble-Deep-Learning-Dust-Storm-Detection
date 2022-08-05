@@ -1,1 +1,3 @@
-# Ensemble-Deep-Learning-Dust-Storm-Detection
+# Ensemble Deep Learning for Automated Dust Storm Detection using Satellite Images
+
+Code will be released soon!!
