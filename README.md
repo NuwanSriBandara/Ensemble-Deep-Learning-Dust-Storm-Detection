@@ -1,6 +1,6 @@
 # Ensemble Deep Learning for Automated Dust Storm Detection using Satellite Images
 
-##Paper Link
+Paper Link
 
 Abstract: 
 
@@ -13,4 +13,4 @@ If you find our work and/or this repository useful, please consider to cite.
 
 ```
 
-#Code will be released soon!!
+Code will be released soon!!
