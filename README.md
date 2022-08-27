@@ -1,5 +1,6 @@
 # Ensemble Deep Learning for Automated Dust Storm Detection using Satellite Images
 
+
 **Paper Link [Will be added shortly]**
 
 Abstract: 
@@ -9,7 +10,12 @@ Abstract:
 If you find this work, repository, or approach useful, please consider giving a star ⭐ and citation.
 
 ```
-@article
+{DBLP,
+  author    = {Nuwan Sriyantha Bandara},
+  title     = {Ensemble Deep Learning for Automated Dust Storm Detection using Satellite Images},
+  journal   = {International Research Conference on Smart Computing and System Engineering - 2022},
+  year      = {2022}
+}
 
 ```
 
