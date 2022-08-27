@@ -10,7 +10,7 @@ Abstract:
 If you find this work, repository, or approach useful, please consider giving a star ⭐ and citation.
 
 ```
-{DBLP,
+@article{nuwan_scse,
   author    = {Nuwan Sriyantha Bandara},
   title     = {Ensemble Deep Learning for Automated Dust Storm Detection using Satellite Images},
   journal   = {International Research Conference on Smart Computing and System Engineering - 2022},
