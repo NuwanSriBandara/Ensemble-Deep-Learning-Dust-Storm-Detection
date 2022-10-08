@@ -1,7 +1,7 @@
 # Ensemble Deep Learning for Automated Dust Storm Detection using Satellite Images
 
 
-**Paper Link [Will be added shortly]**
+**[Paper Link](https://ieeexplore.ieee.org/abstract/document/9905145)**
 
 Abstract: 
 
@@ -10,12 +10,15 @@ Abstract:
 **Citation**
 
 ```
-@article{nuwan_scse,
-  author    = {Nuwan Sriyantha Bandara},
-  title     = {Ensemble Deep Learning for Automated Dust Storm Detection using Satellite Images},
-  journal   = {International Research Conference on Smart Computing and System Engineering - 2022},
-  year      = {2022}
-}
+@INPROCEEDINGS{nuwan_scse2022,
+  author={Bandara, N. S.},
+  booktitle={2022 International Research Conference on Smart Computing and Systems Engineering (SCSE)}, 
+  title={Ensemble Deep Learning for Automated Dust Storm Detection Using Satellite Images}, 
+  year={2022},
+  volume={5},
+  number={},
+  pages={178-183},
+  doi={10.1109/SCSE56529.2022.9905145}}
 
 ```
 
