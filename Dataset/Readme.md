@@ -1,1 +1,3 @@
+The dataset includes RGB images each with visually-recognizable dust storm incidents in high latitude, temporally ranging from 2003 to 2019 over land as well as ocean throughout the world. All RGB images are manually annotated for dust storm detection using CVAT tool such that the dust-susceptible pixel area in the image is masked with (255, 255, 255) in RGB space (white) and the nonsusceptible pixel area is masked with (0, 0, 0) in RGB space (black).
 
+*A subset of the full dataset is made publically available at [Kaggle]() for open access to enthusiastic community to facilitate further research.*  
