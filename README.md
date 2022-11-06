@@ -1,7 +1,7 @@
 # Ensemble Deep Learning for Automated Dust Storm Detection using Satellite Images
 
 
-### **[Paper Link (IEEE Xplore)](https://ieeexplore.ieee.org/abstract/document/9905145)** or **[Proceedings: 178-183 pages (Open Access)](https://libnewbooks.info/scse-2022-2/)**
+### **[Paper Link (IEEE Xplore)](https://ieeexplore.ieee.org/abstract/document/9905145)** or **[Proceedings (Open Access)](http://repository.kln.ac.lk/bitstream/handle/123456789/25425/SCSE%202022%2027.pdf?sequence=1)**
 
 ## Abstract: 
 
