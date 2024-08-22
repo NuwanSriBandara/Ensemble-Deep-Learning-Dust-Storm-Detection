@@ -34,4 +34,4 @@ the figure. True-color RGB images in the dataset are resized into (256, 256, 3) 
 output for semantic dust storm segmentation
 
 
-**Code will be released soon!!**
+**The model preprocessing pipeline is available on [Kaggle](https://www.kaggle.com/datasets/nuwansribandara/elai-dust-storm-dataset-from-modis/code)**
